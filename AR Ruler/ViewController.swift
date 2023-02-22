@@ -98,7 +98,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         
         updateText(text: "\(abs(distance))", atPosition: end.position)
         
-//        distance = √ ((x2-x1)^2 + (y2-y1)^2 + (z2-z1)^2)
+        //        distance = √ ((x2-x1)^2 + (y2-y1)^2 + (z2-z1)^2)
         
     }
     
